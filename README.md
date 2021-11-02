@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Resul TURAN
 - 👀 I’m interested in web development projects
-- 🌱 I’m currently learning HTML, CSS, javascript and React
+- 🌱 I’m currently working with Typescript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rturan29@gmail.com
 
