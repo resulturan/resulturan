@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Resul TURAN
-- 🌱 I’m currently working as FrontEnd Developer with Typescript and React
+- 🌱 I’m currently working as Full-Stack Developer and using Typescript, React, NodeJS etc.
 - 📫 How to reach me ... rturan29@gmail.com
 
 <!---
