@@ -18,6 +18,7 @@
 ![FabricJS](https://img.shields.io/badge/-FabricJS-141a20?style=flat&logo=fabricjs)&nbsp;
 ![Cornerstone](https://img.shields.io/badge/-cornerstone-141a20?style=flat&logo=cornerstone)&nbsp;
 ![OpenSeaDragon](https://img.shields.io/badge/-OpenSeaDragon-141a20?style=flat&logo=openseadragon)&nbsp;
+![Amcharts](https://img.shields.io/badge/-Amcharts-141a20?style=flat&logo=amcharts)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Resul TURAN's github stats](https://github-readme-stats.vercel.app/api?username=resulturan&count_private=true&theme=radical&show_icons=true&include_all_commits=true)&nbsp; 
