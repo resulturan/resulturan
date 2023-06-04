@@ -4,7 +4,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![Typescript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=Typescript&logoColor=3178C6)&nbsp;
 ![JavasSript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=Javascript&logoColor=FCDC00)&nbsp;
-![Golang](https://img.shields.io/badge/-Golang-141a20?style=flat&logo=Golang&logoColor=3178C6)&nbsp;
+![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=Go&logoColor=3178C6)&nbsp;
 ![react](https://img.shields.io/badge/-React-141a20?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![next.js](https://img.shields.io/badge/-Next.js-141a20?style=flat&logo=next.js&logoColor=ffffff)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-141a20?style=flat&logo=Node.js&logoColor=75AC63)&nbsp;
