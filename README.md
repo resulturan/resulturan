@@ -17,6 +17,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=SASS)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
+![ONNX](https://img.shields.io/badge/-Onnx-141a20?style=flat&logo=onnx)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-141a20?style=flat&logo=opencv)&nbsp;
 ![FabricJS](https://img.shields.io/badge/-FabricJS-141a20?style=flat&logo=fabricjs)&nbsp;
 ![Cornerstone](https://img.shields.io/badge/-cornerstone-141a20?style=flat&logo=cornerstone)&nbsp;
