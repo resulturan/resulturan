@@ -1,5 +1,16 @@
 - 👋 Hi, I’m Resul TURAN
-- 🌱 I’m currently working as Full-Stack Web Developer.
+## About Me
+
+I'm a Full-Stack Web Developer currently working as a Frontend Team Lead at Gesund.ai. My expertise primarily lies in TypeScript for programming, with proficiency in React for UI development. I'm also skilled in backend development using Express.js and Nest.js. I have experience with medical imaging/annotation projects using Cornerstone.js and OHIF, and I'm familiar with deployment tools like Docker, NGINX, and Caddy Server. I utilize ONNX runtime web for running AI models directly on the UI, particularly leveraging the Segment-Anything model. For CI/CD, I rely on GitHub Actions, and I use Cloudflare for DNS, Cache, and Network management. Additionally, I have experience with cloud services such as AWS, Azure, and Google Cloud.
+
+## Side Project
+
+Apart from my professional work, I'm involved in a side project focused on enhancing the workflow and productivity of ML developers. This project utilizes NX.js, React, Nest.js, Go, and NGINX. It includes a user interface, two backend services, and a CLI tool tailored specifically for ML developers. I'm excited about advancing my skills through this project and contributing to the ML developer community.
+
+## Get in Touch
+
+Driven by my passion for coding and a deep understanding of web development, I'm committed to creating innovative applications and delivering impactful solutions as a Full-Stack Web Developer. Connect with me on [LinkedIn](https://www.linkedin.com/in/resulturan) for collaborations or discussions.
+
 
 ### 🛠 &nbsp;Tech Stack
 ![Typescript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=Typescript&logoColor=3178C6)&nbsp;
@@ -23,6 +34,7 @@
 ![Cornerstone](https://img.shields.io/badge/-cornerstone-141a20?style=flat&logo=cornerstone)&nbsp;
 ![OpenSeaDragon](https://img.shields.io/badge/-OpenSeaDragon-141a20?style=flat&logo=openseadragon)&nbsp;
 ![Amcharts](https://img.shields.io/badge/-Amcharts-141a20?style=flat&logo=amcharts)&nbsp;
+![Orthanc](https://img.shields.io/badge/-Orthanc-141a20?style=flat&logo=orthanc)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Resul TURAN's github stats](https://github-readme-stats.vercel.app/api?username=resulturan&count_private=true&theme=radical&show_icons=true&include_all_commits=true)&nbsp; 
